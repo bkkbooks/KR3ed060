@@ -1,0 +1,467 @@
+canonical_identifier: bkk:krp/KR3ed060/v1
+canonical_location: https://kanripo.org/bkk/KR3ed060/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫通祖方
+  identifiers:
+    krp: KR3ed060
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed060.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed060_000.yaml, hash: 'sha256:2db4272c1d33622a73b8548afb6cfe33012d312555620e7fdacf4c9295f83e7f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed060_000.markers.yaml, hash: 'sha256:1da2ba35b476cfbe4fa762809c79d664e38e4da8fcc4fa99ca2e792b3955a7b1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1954
+  label: 一桂枝湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d3.h1s1
+    span:
+    - body
+    - 1954
+    - 3777
+  label: 二麻黃湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d4.h1s1
+    span:
+    - body
+    - 3777
+    - 4492
+  label: 三續命湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d5.h1s1
+    span:
+    - body
+    - 4492
+    - 4881
+  label: 四升麻湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d6.h1s1
+    span:
+    - body
+    - 4881
+    - 6532
+  label: 五小柴胡湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d7.h1s1
+    span:
+    - body
+    - 6532
+    - 6852
+  label: 六星香湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d8.h1s1
+    span:
+    - body
+    - 6852
+    - 7910
+  label: 七朮附湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d9.h1s1
+    span:
+    - body
+    - 7910
+    - 9128
+  label: 八四逆湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d10.h1s1
+    span:
+    - body
+    - 9128
+    - 9921
+  label: 九理中湯丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d11.h1s1
+    span:
+    - body
+    - 9921
+    - 10109
+  label: 十半夏瀉心湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d12.h1s1
+    span:
+    - body
+    - 10109
+    - 10574
+  label: 十一七氣湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d13.h1s1
+    span:
+    - body
+    - 10574
+    - 11389
+  label: 十二崔氏八味丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d14.h1s1
+    span:
+    - body
+    - 11389
+    - 11671
+  label: 十三枳朮湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d15.h1s1
+    span:
+    - body
+    - 11671
+    - 12497
+  label: 十四平胃散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d16.h1s1
+    span:
+    - body
+    - 12497
+    - 14048
+  label: 十五二陳湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d17.h1s1
+    span:
+    - body
+    - 14048
+    - 15243
+  label: 十六四君子湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d18.h1s1
+    span:
+    - body
+    - 15243
+    - 17200
+  label: 十七四物湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d19.h1s1
+    span:
+    - body
+    - 17200
+    - 18964
+  label: 十八保元湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d20.h1s1
+    span:
+    - body
+    - 18964
+    - 19472
+  label: 十九生脈散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d21.h1s1
+    span:
+    - body
+    - 19472
+    - 19927
+  label: 二十二冬膏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d22.h1s1
+    span:
+    - body
+    - 19927
+    - 20330
+  label: 二十一桔梗湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d23.h1s1
+    span:
+    - body
+    - 20330
+    - 20610
+  label: 二十二防己黃耆湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d24.h1s1
+    span:
+    - body
+    - 20610
+    - 21377
+  label: 二十三梔子豉湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d25.h1s1
+    span:
+    - body
+    - 21377
+    - 22375
+  label: 二十四小承氣湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d26.h1s1
+    span:
+    - body
+    - 22375
+    - 22776
+  label: 二十五抵當湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d27.h1s1
+    span:
+    - body
+    - 22776
+    - 23161
+  label: 二十六涼膈散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d28.h1s1
+    span:
+    - body
+    - 23161
+    - 23510
+  label: 二十七備急丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d29.h1s1
+    span:
+    - body
+    - 23510
+    - 25075
+  label: 二十八伊尹三黃湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d30.h1s1
+    span:
+    - body
+    - 25075
+    - 25514
+  label: 二十九十棗湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d31.h1s1
+    span:
+    - body
+    - 25514
+    - 26113
+  label: 三十五苓散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d32.h1s1
+    span:
+    - body
+    - 26113
+    - 26392
+  label: 三十一益元散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d33.h1s1
+    span:
+    - body
+    - 26392
+    - 27045
+  label: 三十二白虎湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d34.h1s1
+    span:
+    - body
+    - 27045
+    - 27488
+  label: 三十三駐車丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d35.h1s1
+    span:
+    - body
+    - 27488
+    - 27758
+  label: 三十四佐金丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d36.h1s1
+    span:
+    - body
+    - 27758
+    - 28237
+  label: 三十五大補丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d37.h1s1
+    span:
+    - body
+    - 28237
+    - 28376
+  label: 三十六金液丹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d38.h1s1
+    span:
+    - body
+    - 28376
+    - 28521
+  label: 三十七靈砂丹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d39.h1s1
+    span:
+    - body
+    - 28521
+    - 28589
+  label: 三十八二氣丹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d40.h1s1
+    span:
+    - body
+    - 28589
+    - 28655
+  label: 三十九玉真丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d41.h1s1
+    span:
+    - body
+    - 28655
+    - 28743
+  label: 四十半硫丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d42.h1s1
+    span:
+    - body
+    - 28743
+    - 28916
+  label: 四十一養正丹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d43.h1s1
+    span:
+    - body
+    - 28916
+    - 29040
+  label: 四十二來復丹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d44.h1s1
+    span:
+    - body
+    - 29040
+    - 29263
+  label: 四十三黑錫丹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed060_jc_000-d45.h1s1
+    span:
+    - body
+    - 29263
+    - 29310
+  label: 四十四三和丹
+  type: section
+  level: 1
+hash: sha256:b64c8c5e9579ac68a173591581bc2c898932499c664f1b0b46467f99ce7ce7e0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
