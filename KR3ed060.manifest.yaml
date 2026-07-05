@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed060_000.yaml, hash: 'sha256:2db4272c1d33622a73b8548afb6cfe33012d312555620e7fdacf4c9295f83e7f'}
+  - {seq: 0, filename: KR3ed060_000.yaml, hash: 'sha256:23030bbd987f51b993d90242506cc58714fad64c7614f6026021b8f90cfc0b08'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed060_000.markers.yaml, hash: 'sha256:1da2ba35b476cfbe4fa762809c79d664e38e4da8fcc4fa99ca2e792b3955a7b1'}
+  - {seq: 0, role: markers, filename: assets/KR3ed060_000.markers.yaml, hash: 'sha256:b8617e748d2b7d7cc66b5e17bfb2f66416075fc34a608cc2f939555b74c9e810'}
 table_of_contents:
 - ref:
     seq: 0
@@ -461,7 +461,4 @@ table_of_contents:
   label: 四十四三和丹
   type: section
   level: 1
-hash: sha256:b64c8c5e9579ac68a173591581bc2c898932499c664f1b0b46467f99ce7ce7e0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1949c1bb21beed58a5b42e909b5ec962c879c988a5a3cd401d54b4b30dd76c04
