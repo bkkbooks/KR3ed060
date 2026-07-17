@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed060_000-jc.yaml, hash: 'sha256:23030bbd987f51b993d90242506cc58714fad64c7614f6026021b8f90cfc0b08'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed060_000-jc.markers.yaml, hash: 'sha256:26713ba95a3472cc06c3ea1dac6739b100e7d0c3313cfa70d4d2f4157bfb854e'}
+  - {seq: 0, role: markers, filename: assets/KR3ed060_000-jc.markers.yaml, hash: 'sha256:cd90aad538e93215c9a2b3556eb9843a76f88428d2ae3841d00029f646a279e3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -461,4 +461,4 @@ table_of_contents:
   label: 四十四三和丹
   type: section
   level: 1
-hash: sha256:18dcea4eb793f718de853075c4efbd43b328521e1364d1f5bd4af62ea03a039d
+hash: sha256:ca3a862d0a06e064b40a334137e2430bc55ece8f867265c5c8efc9449b15339e
